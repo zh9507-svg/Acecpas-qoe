@@ -1,0 +1,6 @@
+{
+  "name": "ACE CPAs Due Diligence",
+  "description": "Premium Due Diligence & Quality of Earnings (QofE) landing page with GHL build blueprint, secure client portal simulations, interactive MFA, and document trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
