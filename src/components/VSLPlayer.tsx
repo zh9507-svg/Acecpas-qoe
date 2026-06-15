@@ -92,7 +92,7 @@ export default function VSLPlayer() {
     { start: 12, end: 28, text: "Close to ninety percent of middle-market business acquisitions suffer from unverified seller add-backs and EBITDA anomalies." },
     { start: 28, end: 45, text: "We cross-examine transaction ledgers, monthly income statements, and cash controls to discover your true acquisition margins." },
     { start: 45, end: 68, text: "By isolating non-operating expenses, owner capitalizations, and supply chain windfalls, you construct watertight LOI buffers." },
-    { start: 68, end: 9999, text: "Our certified Quality of Earnings (QofE) report packages are trusted by SBA lending institutions, buyers, and capital sponsors alike." }
+    { start: 68, end: 9999, text: "Our certified Quality of Earnings (QOE) report packages are trusted by SBA lending institutions, buyers, and capital sponsors alike." }
   ];
 
   const currentTranscript = transcriptData.find(
