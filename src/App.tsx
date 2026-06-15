@@ -257,12 +257,12 @@ export default function App() {
           </nav>
 
           {/* CTA & Secure Lock Interface Access */}
-          <div className="flex items-center space-x-2.5">
+          <div className="flex items-center space-x-2.5 ml-auto md:ml-0">
             <a 
               href="#hero-form-panel"
-              className="px-4 py-2 rounded-lg text-xs font-bold bg-midnight-navy hover:bg-executive-navy text-white transition tracking-wider uppercase font-sans shadow-md"
+              className="px-2.5 py-1.5 sm:px-4 sm:py-2 rounded-lg text-[10px] sm:text-xs font-bold bg-midnight-navy hover:bg-executive-navy text-white transition tracking-wider uppercase font-sans shadow-md whitespace-nowrap"
             >
-              Schedule your Free Consultation
+              Schedule Free Consultation
             </a>
           </div>
         </div>
