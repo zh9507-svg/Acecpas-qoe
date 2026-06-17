@@ -108,7 +108,7 @@ export default function App() {
 
   useEffect(() => {
     let start = 0;
-    const end = 114;
+    const end = 270;
     const duration = 1500; // 1.5 seconds count up
     const stepTime = Math.max(Math.floor(duration / end), 1);
     
@@ -276,10 +276,6 @@ export default function App() {
           
           {/* Main Visual copy components placed ON TOP of this section spanning full-width */}
           <div className="text-center max-w-4xl mx-auto space-y-6 pt-2">
-            <div className="inline-flex items-center space-x-2 bg-[#EE5935]/10 border border-[#EE5935]/20 px-3.5 py-1.5 rounded-full text-xs text-[#EE5935] font-semibold">
-              <ShieldCheck className="w-4 h-4 text-ace-orange" />
-              <span className="font-mono uppercase tracking-wider text-[11px]">Mil-Spec AES-256 Deal Protection Included</span>
-            </div>
 
             <h1 className="font-display font-black text-3xl md:text-5xl lg:text-[54px] tracking-tight leading-tight text-midnight-navy">
               Know the <span className="text-ace-orange">Real Numbers</span> Before You Buy, Sell, or Close.
@@ -293,7 +289,7 @@ export default function App() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-4xl mx-auto text-xs text-slate-text">
               <div className="flex items-center justify-center space-x-2 bg-soft-cloud p-2.5 rounded-lg border border-border-mist/60 shadow-xs">
                 <Check className="w-4 h-4 text-ace-orange flex-shrink-0" />
-                <span className="font-semibold text-midnight-navy">100+ Quality of Earnings Led</span>
+                <span className="font-semibold text-midnight-navy">270+ Quality of Earnings Led</span>
               </div>
               <div className="flex items-center justify-center space-x-2 bg-soft-cloud p-2.5 rounded-lg border border-border-mist/60 shadow-xs">
                 <Check className="w-4 h-4 text-ace-orange flex-shrink-0" />
